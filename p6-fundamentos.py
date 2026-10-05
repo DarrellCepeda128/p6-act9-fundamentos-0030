@@ -57,3 +57,5 @@ descuento = 10000
 precio = carro - descuento
 
 print("Precio final del carro:", precio)
+
+print("Programa realizado por Cepeda Darrell NC 0030")
